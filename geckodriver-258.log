@@ -1,0 +1,12 @@
+1777455977058	geckodriver	INFO	Listening on 127.0.0.1:50496
+1777455980278	mozrunner::runner	INFO	Running command: "C:\\Users\\ElevAB\\.cache\\selenium\\firefox\\win64\\150.0.1\\firefox.exe" "--marionette" "--remote-debuggi ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ElevAB\\AppData\\Local\\Temp\\rust_mozprofile2oz92O"
+Dynamically enable window occlusion 0
+1777455980852	Marionette	INFO	Marionette enabled
+1777455980989	Marionette	INFO	Listening on port 50505
+WebDriver BiDi listening on ws://127.0.0.1:50497
+Read port: 50505
+1777455981224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: "Experiment desktop-release-rollout-show-relay-to-all-browsers-next-sign-up-modal-cta has unknown featureId: email-autocomplete-relay"
+console.error: "Experiment visual-card-updates has unknown featureId: newtabRefinedCardsLayout"
+Exiting due to channel error.
+Exiting due to channel error.
