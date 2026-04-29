@@ -1,0 +1,20 @@
+1777299702238	geckodriver	INFO	Listening on 127.0.0.1:57149
+1777299705338	mozrunner::runner	INFO	Running command: "C:\\Users\\ElevAB\\.cache\\selenium\\firefox\\win64\\150.0\\firefox.exe" "--marionette" "--remote-debugging ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ElevAB\\AppData\\Local\\Temp\\rust_mozprofilefJKhBW"
+Dynamically enable window occlusion 0
+1777299705717	Marionette	INFO	Marionette enabled
+1777299705835	Marionette	INFO	Listening on port 52508
+Read port: 52508
+WebDriver BiDi listening on ws://127.0.0.1:57150
+1777299705897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: "Experiment desktop-release-rollout-show-relay-to-all-browsers-next-sign-up-modal-cta has unknown featureId: email-autocomplete-relay"
+console.error: "Experiment visual-card-updates has unknown featureId: newtabRefinedCardsLayout"
+console.error: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIContentSniffer.getMIMETypeFromContent]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource:///modules/FaviconLoader.sys.mjs :: onStopRequest :: line 348"  data: no]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:5173."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:5173."
+Exiting due to channel error.
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: Composi[GFX1-]: CompositorBridgeChild receivtorBridgeChild receives IPC close with reason=AbnormalShutdown
+es IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

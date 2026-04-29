@@ -1,0 +1,15 @@
+1777029276470	geckodriver	INFO	Listening on 127.0.0.1:56371
+1777029279603	mozrunner::runner	INFO	Running command: "C:\\Users\\ElevAB\\.cache\\selenium\\firefox\\win64\\150.0\\firefox.exe" "--marionette" "--remote-debugging ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ElevAB\\AppData\\Local\\Temp\\rust_mozprofile91yzag"
+Dynamically enable window occlusion 0
+1777029280021	Marionette	INFO	Marionette enabled
+1777029280131	Marionette	INFO	Listening on port 49676
+WebDriver BiDi listening on ws://127.0.0.1:56372
+Read port: 49676
+1777029280297	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIContentSniffer.getMIMETypeFromContent]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource:///modules/FaviconLoader.sys.mjs :: onStopRequest :: line 348"  data: no]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:5173."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

@@ -1,0 +1,13 @@
+1777033309655	geckodriver	INFO	Listening on 127.0.0.1:54924
+1777033312790	mozrunner::runner	INFO	Running command: "C:\\Users\\ElevAB\\.cache\\selenium\\firefox\\win64\\150.0\\firefox.exe" "--marionette" "--remote-debugging ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ElevAB\\AppData\\Local\\Temp\\rust_mozprofileP8WA0i"
+Dynamically enable window occlusion 0
+1777033313166	Marionette	INFO	Marionette enabled
+1777033313289	Marionette	INFO	Listening on port 54933
+Read port: 54933
+WebDriver BiDi listening on ws://127.0.0.1:54926
+1777033313352	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: "Experiment desktop-release-rollout-show-relay-to-all-browsers-next-sign-up-modal-cta has unknown featureId: email-autocomplete-relay"
+console.error: "Experiment visual-card-updates has unknown featureId: newtabRefinedCardsLayout"
+console.error: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIContentSniffer.getMIMETypeFromContent]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource:///modules/FaviconLoader.sys.mjs :: onStopRequest :: line 348"  data: no]
+Exiting due to channel error.
+Exiting due to channel error.
